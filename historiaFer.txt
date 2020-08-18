@@ -1,7 +1,8 @@
-Esta es mi historia
+Esta es mi historia.
 
-Soy Fernando Ramila Lagunes
+Soy Fernando Ramila Lagunes.
 
 Estudio para irme a Nueva Zelanda.
 
-Posdata. Para abrir un file con sublime text, debo agregar el path del ejecutable de sublime en las variables de entorno del sistema
+Regreso a la primera version de solo este archivo.
+Agregare solo un indice de los posibles pasos para llegar a NZ.
