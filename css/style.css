@@ -1,5 +1,13 @@
 body{
 	text-align: center;
-	color: pink;
-	font-family: "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;
+	color: #4D81C1;
+	font-family: sans-serif;
+}
+
+.principal{
+	width: 70%;
+	padding: 1rem;
+	text-align: left;
+	border: 1px solid #58D05B;
+	margin: 0 auto;
 }
