@@ -16,6 +16,7 @@ body{
 	background-color: #E16BE5;
 	color: black;
 	font-weight: bold;
+	font-size: 40px;
 	margin: 0;
 	padding: 0.5rem;
 	text-align: center;
@@ -26,4 +27,9 @@ body{
 	padding: 0 0 0 1rem;
 	color: blue;
 	font-weight: normal;
+}
+
+#logoImagen{
+	width: 230px;
+	vertical-align: middle;
 }
